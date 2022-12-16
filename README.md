@@ -9,7 +9,7 @@ Check out some of my work:
 -	[Supremacy World](https://supremacyworld.com/): metaverse website and storefronts.
 -	[XSYN](https://xsyn.jonathanpunzalan.com): Web3 metaverse centralized infrastructure.
 -	[Luxe Tower](https://luxetower.jonathanpunzalan.com): landing page of a premium apartment.
--	[Grand Palisade](https://grandpalisade.jonathanpunzalan.com), [Boston Serenity](https://bostonserenity.jonathanpunzalan.com), [Sky Tower One](https://skytowerone.jonathanpunzalan.com): dynamic premium apartment sale websites.
+-	[Grand Palisade](https://grandpalisade.jonathanpunzalan.com), [Boston Serenity](https://bostonserenity.jonathanpunzalan.com), [Sky Tower One](https://skytowerone.jonathanpunzalan.com): dynamic premium apartment sale websites from one codebase.
 
 
  
