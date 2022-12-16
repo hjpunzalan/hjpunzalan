@@ -4,7 +4,7 @@
 <b>ME</b>: Software Developer that goes above and beyond building complex applications with TypeScript, React.js, Next.js, Nodejs and Go.
 
 Check out some of my work:
--	[Supremacy Game](https://supremacy.jonathanpunzalan.com): website of the game visited by over 500,000 users worldwide.
+-	[Supremacy Game](https://supremacy.jonathanpunzalan.com): website of a web3 battle arena game visited by over 500,000 users worldwide.
 -	[Supremacy Wiki](https://supremacy.jonathanpunzalan.com/wiki): battle arena encyclopedia.
 -	[Supremacy World](https:supremacyworld.com/founders): metaverse website and storefronts.
 -	[XSYN](https://xsyn.jonathanpunzalan.com): Web3 metaverse centralized infrastructure.
