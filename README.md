@@ -6,7 +6,7 @@
 Check out some of my work:
 -	[Supremacy Game](https://supremacy.jonathanpunzalan.com): website of a web3 battle arena game visited by over 500,000 users worldwide.
 -	[Supremacy Wiki](https://supremacy.jonathanpunzalan.com/wiki): battle arena encyclopedia.
--	[Supremacy World](https://supremacyworld.com/founders): metaverse website and storefronts.
+-	[Supremacy World](https://supremacyworld.com/): metaverse website and storefronts.
 -	[XSYN](https://xsyn.jonathanpunzalan.com): Web3 metaverse centralized infrastructure.
 -	[Luxe Tower](https://luxetower.jonathanpunzalan.com): landing page of a premium apartment.
 -	[Grand Palisade](https://grandpalisade.jonathanpunzalan.com), [Boston Serenity](https://bostonserenity.jonathanpunzalan.com), [Sky Tower One](https://skytowerone.jonathanpunzalan.com): dynamic premium apartment sale websites.
