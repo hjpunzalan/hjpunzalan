@@ -6,6 +6,7 @@
 Check out some of my work:
 -	[Supremacy Game](https://supremacy.jonathanpunzalan.com): website of a web3 battle arena game visited by over 500,000 users worldwide.
 -	[Supremacy Wiki](https://supremacy.jonathanpunzalan.com/wiki): battle arena encyclopedia.
+-	[Supremacy Tutorial)(https://supremacytutorial.jonathanpunzalan.com): battle arena interactive tutorial.
 -	[Supremacy World](https://supremacyworld.com/): metaverse website and storefronts.
 -	[XSYN](https://xsyn.jonathanpunzalan.com): Web3 metaverse centralized infrastructure.
 -	[Luxe Tower](https://luxetower.jonathanpunzalan.com): landing page of a premium apartment.
